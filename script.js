@@ -1,4 +1,4 @@
-// script.js
+
 
 document.getElementById('to-do-form').addEventListener('submit', function(event) {
     event.preventDefault();
